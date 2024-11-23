@@ -1,4 +1,4 @@
----
+---AbaxSolutions1
 title: About usage-based billing for licenses
 intro: Learn about usage-based billing for your licenses with the enhanced billing platform, whether you pay through {% data variables.product.company_short %} or Azure.
 redirect_from:
